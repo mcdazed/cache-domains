@@ -1,1 +1,2 @@
 origin-a.akamaihd.net
+service-aggregation-layer.juno.ea.com
