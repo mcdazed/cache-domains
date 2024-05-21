@@ -3,4 +3,3 @@ lvlt.cdn.ea.com
 origin-a.akamaihd.net
 pin-river.data.ea.com
 ratt.juno.ea.com
-service-aggregation-layer.juno.ea.com
