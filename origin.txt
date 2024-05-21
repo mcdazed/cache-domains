@@ -1,5 +1,1 @@
-cdn-patch.swtor.com
-lvlt.cdn.ea.com
 origin-a.akamaihd.net
-pin-river.data.ea.com
-ratt.juno.ea.com
