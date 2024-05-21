@@ -1,10 +1,1 @@
-cache1-par1.steamcontent.com
-cache2-par1.steamcontent.com
-cache3-par1.steamcontent.com
-cache4-par1.steamcontent.com
-cache5-par1.steamcontent.com
-cache6-par1.steamcontent.com
-cache7-par1.steamcontent.com
-cache8-par1.steamcontent.com
-cache9-par1.steamcontent.com
 lancache.steamcontent.com
