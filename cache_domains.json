@@ -36,11 +36,6 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
-			"name": "gog",
-			"description": "CDN for GOG games",
-			"domain_files": ["gog.txt"]
-		},
-		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
 			"domain_files": ["nexusmods.txt"]
