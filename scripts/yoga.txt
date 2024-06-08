@@ -21,6 +21,7 @@ blizzard.vo.llnwd.net
 blzddist1-a.akamaihd.net
 blzddist2-a.akamaihd.net
 blzddist3-a.akamaihd.net
+cache*.steamcontent.com
 ccs.cdn.wup.shop.nintendo.net
 ccs.cdn.wup.shop.nintendo.net.edgesuite.net
 cdn-11.eft-store.com
