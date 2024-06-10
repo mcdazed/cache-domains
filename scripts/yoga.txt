@@ -38,6 +38,7 @@ cdn1.unrealengine.com
 cdn2.epicgames.com
 cdn2.unrealengine.com
 cdn3.unrealengine.com
+cf-files.nexusmods.com
 cl-453343cd.gcdn.co
 cloudflare.epicgamescdn.com
 content.warframe.com
